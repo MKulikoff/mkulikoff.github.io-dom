@@ -1,0 +1,30 @@
+body { 
+	background: linear-gradient(to right, red, yellow); 
+	text-align: center; 
+	letter-spacing: .5em; 
+ }
+
+h1 { 
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	font-size: 80px; 
+	text-align: center; 
+	color: rgba(0, 0, 0, 0.7);
+	letter-spacing: .1em; 
+
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 60px; 
+	text-transform: uppercase;
+	text-align: center;
+	color: rgba(0, 0, 0, 0.7);
+	letter-spacing: .1em; 
+}
+
+h3 { 
+	text-align: center;
+	color: white;
+	font-size: 45px; 
+}
